@@ -8,6 +8,7 @@
 ## 扱える OS
 
 - Ubuntu サーバー
+  sshを利用したUbuntuの遠隔操作、ShellScriptの作成、cronの設定ができます。
 - Windows
 
 ## 扱えるソフト
@@ -23,10 +24,13 @@
 ## 扱えるプログラミング言語
 
 - Java
+  MinecraftのMod、プラグインを開発できます。
 - JavaScript
 - Python
+  DiscordのBotを開発できます。
 - Ruby
 - Node.js
+  DiscordのBotを開発できます。
 - GoogleAppsScript
 - PHP
 - C
